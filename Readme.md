@@ -4,3 +4,7 @@
 [Лекция 1. AI security and vulnerability landscape](https://www.youtube.com/watch?v=O8hy7q6JGqI)
 
 [Лекция 2. AI agent security: Assessment and defense](https://www.youtube.com/watch?v=axJLEpDbAu4)
+
+[Лекция 3.1. AI Agent defense architecture](https://www.youtube.com/watch?v=xT1OxGl4lFI)
+
+[Лекция 3.2. DevSecOps for AI](https://www.youtube.com/watch?v=8l5B7g8Citc)
