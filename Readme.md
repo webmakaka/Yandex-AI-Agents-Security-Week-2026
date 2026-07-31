@@ -8,3 +8,5 @@
 [Лекция 3.1. AI Agent defense architecture](https://www.youtube.com/watch?v=xT1OxGl4lFI)
 
 [Лекция 3.2. DevSecOps for AI](https://www.youtube.com/watch?v=8l5B7g8Citc)
+
+[Лекция 4. Enterprise AI agent security](https://www.youtube.com/watch?v=h_XfNaUKPQ8)
