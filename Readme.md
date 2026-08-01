@@ -10,3 +10,5 @@
 [Лекция 3.2. DevSecOps for AI](https://www.youtube.com/watch?v=8l5B7g8Citc)
 
 [Лекция 4. Enterprise AI agent security](https://www.youtube.com/watch?v=h_XfNaUKPQ8)
+
+[Лекция 5. Breaking the guardrails](https://www.youtube.com/watch?v=eq5DQ_7hc3s)
